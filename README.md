@@ -172,11 +172,11 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 
 - `SavedBooks.jsx`:
 
-  - Remove the `useEffect()` Hook that sets the state for `UserData`. <!-- TODO -->
+  - Remove the `useEffect()` Hook that sets the state for `UserData`.
 
-  - Instead, use the `useQuery()` Hook to execute the `GET_ME` query on load and save it to a variable named `userData`. <!-- TODO -->
+  - Instead, use the `useQuery()` Hook to execute the `GET_ME` query on load and save it to a variable named `userData`.
 
-  - Use the `useMutation()` Hook to execute the `REMOVE_BOOK` mutation in the `handleDeleteBook()` function instead of the `deleteBook()` function that's imported from `API` file. (Make sure you keep the `removeBookId()` function in place!) <!-- TODO -->
+  - Use the `useMutation()` Hook to execute the `REMOVE_BOOK` mutation in the `handleDeleteBook()` function instead of the `deleteBook()` function that's imported from `API` file. (Make sure you keep the `removeBookId()` function in place!)
 
 - `SignupForm.jsx`: Replace the `addUser()` functionality imported from the `API` file with the `ADD_USER` mutation functionality. <!-- TODO -->
 
