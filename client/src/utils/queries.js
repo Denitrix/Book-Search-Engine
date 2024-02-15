@@ -1,4 +1,3 @@
-// TODO: create GET_ME query
 import { gql } from "@apollo/client";
 
 export const GET_ME = gql`
