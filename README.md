@@ -1,4 +1,43 @@
-# 21 MERN: Book Search Engine
+# Book Search Engine
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![Book Search Screenshot](<Assets/Book Search Screenshot.png>)
+[Book Search](https://book-search-njr9.onrender.com)
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Description
+
+A Google Books API search engine built using the MERN stack.
+
+## Installation
+
+No installation required.
+
+## Usage
+
+Click the link above or [here](https://book-search-njr9.onrender.com) to visit the page. Click on the button in the top right corner to create an account or login to an existing account, then simply type a book title into the search bar at the top of the page and click the submit button. Your results will appear in the body of the page, click on the `Save this Book` button to save a book to your account. To view your saved books, click on `See Your Books` and you will be taken to your books page.
+
+## License
+
+This application is covered under the MIT license.
+Please see here for more details (https://opensource.org/licenses/MIT)
+
+## Questions
+
+For any questions regarding this project, feel free to contact me through the following:
+
+- Email: alexmajors0613@gmail.com
+- GitHub: https://github.com/Denitrix
+
+<!-- # 21 MERN: Book Search Engine
 
 ## Your Task
 
@@ -253,3 +292,4 @@ You are required to submit BOTH of the following for review:
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+ -->
